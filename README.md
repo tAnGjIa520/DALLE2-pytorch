@@ -1,7 +1,7 @@
 <img src="./dalle2.png" width="450px"></img>
 
 ## DALL-E 2 - Pytorch
-
+222
 Implementation of <a href="https://openai.com/dall-e-2/">DALL-E 2</a>, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
 
 <a href="https://youtu.be/RJwPN4qNi_Y?t=555">Yannic Kilcher summary</a> | <a href="https://www.youtube.com/watch?v=F1X4fHzF4mQ">AssemblyAI explainer</a>
